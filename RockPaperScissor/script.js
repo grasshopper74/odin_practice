@@ -1,3 +1,8 @@
+//  The Odin Project: Foundations - JavaScript - Project Rock Paper Scissors
+//  https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors 
+
+// ======> TO DO: add option if user enters wrong element names
+
 // *** Computer round random choice ***
 function computerPlay(elements) {
   elements = ["rock", "paper", "scissors"];
